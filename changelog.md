@@ -1,3 +1,6 @@
+# 2.0.4
+- mac and ios support
+
 # 2.0.3
 - improved support for non-16:9 aspect ratios
 
