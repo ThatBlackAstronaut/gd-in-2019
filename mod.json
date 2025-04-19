@@ -1,10 +1,12 @@
 {
-	"geode": "4.0.1",
+	"geode": "4.3.1",
 	"gd": {
 		"win": "2.2074",
-		"android": "2.2074"
+		"android": "2.2074",
+		"macos": "2.2074"
+		"ios": "2.2074"
 	}, 
-	"version": "v2.0.5",
+	"version": "v2.0.6",
 	"id": "colon.gd_in_2019",
 	"name": "Geometry Dash in 2019",
 	"developer": "Colon",
